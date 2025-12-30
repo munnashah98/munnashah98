@@ -1,16 +1,46 @@
-## Hi there 👋
+## 🧑‍💻 About Me
 
-<!--
-**munnashah98/munnashah98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I am a **student of CSE (General)**
+- 📘 Currently in **1st Semester**
+- 🚀 Learning step by step — skills are **still loading**
+- 💬 Motto: *"Every success needs time"*
 
-Here are some ideas to get you started:
+📧 **Contact:**  
+👉 munnashah9858@gmail.com
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Language
+- Python
+- Shell Scripting
+- Git & GitHub (Learning)
+
+- ## 🌐 Socials
+
+<p align="left">
+  <a href="https://instagram.com/munna_shah11" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:munnashah9858@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munnashah98&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munnashah98&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnashah98&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=munnashah98&label=Visitors&color=blue&style=flat" />
+</p>
+
