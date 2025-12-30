@@ -10,7 +10,7 @@
 - 📘 Currently in **1st Semester**
 - 🚀 Learning step by step — skills are **still loading**
 - 💬 Motto: *"Every success needs time"*   <p align="right">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="100" />
+  <img src="[https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif](https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif)" width="100" />
 </p>
   
 📧 **Contact:**  
