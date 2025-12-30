@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="profile.png" width="200">
+</p>
+
+
+
 ## 🧑‍💻 About Me
 
 - 🎓 I am a **student of CSE (General)**
