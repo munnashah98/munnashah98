@@ -11,6 +11,11 @@
 - 🚀 Learning step by step — skills are **still loading**
 - 💬 Motto: *"Every success needs time"*
 
+- <p align="right">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400" />
+</p>
+
+
 📧 **Contact:**  
 👉 munnashah9858@gmail.com
 ## 🛠️ Skills
