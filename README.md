@@ -9,13 +9,10 @@
 - 🎓 I am a **student of CSE (General)**
 - 📘 Currently in **1st Semester**
 - 🚀 Learning step by step — skills are **still loading**
-- 💬 Motto: *"Every success needs time"*
-
-- <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="1400" />
+- 💬 Motto: *"Every success needs time"*   <p align="right">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="100" />
 </p>
-
-
+  
 📧 **Contact:**  
 👉 munnashah9858@gmail.com
 ## 🛠️ Skills
