@@ -3,23 +3,25 @@
 </p>
 
 
-
 ## 🧑‍💻 About Me
 
 - 🎓 I am a **student of CSE (General)**
 - 📘 Currently in **1st Semester**
 - 🚀 Learning step by step — skills are **still loading**
 - 💬 Motto: *"Every success needs time"*
-
-  
 📧 **Contact:**  
 👉 munnashah9858@gmail.com
 ## 🛠️ Skills
-
 - C Language
 - Python
 - Shell Scripting
 - Git & GitHub (Learning)
+
+<p align="center">
+  <img src="pic.png" width="1500" />
+</p>
+
+
 
 - ## 🌐 Socials
 
