@@ -35,21 +35,5 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munnashah98&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munnashah98&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnashah98&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=munnashah98&label=Visitors&color=blue&style=flat" />
-</p>
 
