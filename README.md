@@ -6,7 +6,7 @@
 
 > *"Every success needs time."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CSE+Student+%7C+1st+Semester;C+%7C+Python+%7C+Shell+Scripting;Learning+Git+%26+GitHub;Skills+are+still+loading...+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CSE+Student+%7C+2nd+Semester;C+%7C+Python+%7C+Shell+Scripting;Learning+Git+%26+GitHub;Skills+are+still+loading...+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
