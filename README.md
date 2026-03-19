@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I am a **student of CSE (General)**
-- 📘 Currently in **1st Semester**
+- 📘 Currently in **2nd Semester**
 - 🚀 Learning step by step — skills are **still loading**
 - 💬 Motto: *"Every success needs time"*
 📧 **Contact:**  
