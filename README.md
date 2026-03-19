@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.png" width="150" style="border-radius: 50%;" />
+<img src="profile.png" width="1800"/>
 
 # 👋 Hey, I'm Munna Shah
 
@@ -14,18 +14,18 @@
 
 ## 🧑‍💻 About Me
 
-```python
-student = {
-    "name"     : "Munna Shah",
-    "degree"   : "B.Tech in Computer Science & Engineering",
-    "semester" : "1st Semester",
-    "status"   : "Skills still loading... 🚀",
-    "motto"    : "Every success needs time",
-    "contact"  : "munnashah9858@gmail.com"
-}
-```
+- 🎓 I am a **student of CSE (General)**
+- 📘 Currently in **1st Semester**
+- 🚀 Learning step by step — skills are **still loading**
+- 💬 Motto: *"Every success needs time"*
+📧 **Contact:**  
+👉 munnashah9858@gmail.com
+## 🛠️ Skills
+- C Language
+- Python
+- Shell Scripting
+- Git & GitHub (Learning)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -43,22 +43,7 @@ student = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=munnashah9858&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnashah9858&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=munnashah9858&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🚀 Currently
 
