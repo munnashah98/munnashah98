@@ -48,7 +48,7 @@
 ## 🚀 Currently
 
 - 📖 Learning **Data Structures & Algorithms** in C
-- 🐍 Building small projects in **Python**
+- 🐍 Building small projects in **java**
 - 🌱 Exploring **Git & GitHub** workflows
 - 🎯 Goal: Build something I'm proud of by end of semester
 
